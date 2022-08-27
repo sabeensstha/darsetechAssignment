@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  font-family:  Archivo,system-ui;
 }
 
 .App-logo {
@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.Display-close {
+  text-align: center;
+  word-spacing: .5px;
+  
+}
+
+
